@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">MyTourGuidePune</string>
+
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the vocabulary locations for colors [CHAR LIMIT=20] -->
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Category name for the vocabulary locations for numbers [CHAR LIMIT=20] -->
+    <string name="category_attractions">Attractions</string>
+
+    <!-- Category name for the vocabulary locations for family members [CHAR LIMIT=20] -->
+    <string name="category_parks">Parks</string>
+    <string name="durvankura_dining_hall">Durvankura Dining Hall</string>
+    <string name="sadashiv_peth">Sadashiv Peth</string>
+    <string name="fine_dining_restaurant">Fine Dining Restaurant\n\n</string>
+    <string name="durvankura_address">Address: Shop No. 1166, Tilak Road, Hatti Ganapati Chowk, Near
+        Sahitya Parishad, Sadashiv Peth, Pune, Maharashtra 411030\n\n
+    </string>
+    <string name="durvankura_contact">Phone:020 2447 4438</string>
+    <string name="oaks_1000">1000 Oaks</string>
+    <string name="pune_camp">Pune Camp</string>
+    <string name="oaks_restaurant">1000 Oaks Restaurant\n\n</string>
+    <string name="oaks_address">Address: Near Shahjanand Complex,, 2417, East St, Camp, Pune,
+        Maharashtra 411001\n\n
+    </string>
+    <string name="oaks_contact">Phone:020 2634 3194</string>
+    <string name="sukanta_thali">Sukanta Thali</string>
+    <string name="deccan_gymkhana">Deccan Gymkhana</string>
+    <string name="vegetarian_restaurant">Vegetarian Restaurant\n\n</string>
+    <string name="sukanta_address">Address: No. 636, Pulachi Wadi, Deccan Gymkhana, Off J M Road,
+        Pune, Maharashtra 411004\n\n
+    </string>
+    <string name="sukanta_contact">Phone:086987 73875</string>
+    <string name="the_westin">The Westin</string>
+    <string name="koregaon_park">Koregaon Park</string>
+    <string name="the_westin_address">Address: 36/3-B Koregaon Park Annexe, Mundhwa Road, Ghorpadi,
+        Pune, Maharashtra 411001\n\n
+    </string>
+    <string name="the_westin_contact">Phone:020 6721 0000</string>
+    <string name="jw_mariott">JW Mariott</string>
+    <string name="sbb_road">SB Road</string>
+    <string name="jw_hotel">JW Marriott Hotel</string>
+    <string name="jw_address">Address: Senapati Bapat Road, Pune, Maharashtra 411053\n\n</string>
+    <string name="jw_contact">Phone:020 6683 3333</string>
+    <string name="the_o_hotel">The O Hotel</string>
+    <string name="the_o_address">Address: N Main Rd, Koregaon Park, Pune, Maharashtra 411001\n\n
+    </string>
+    <string name="the_o_contact">Phone:020 4001 1000</string>
+    <string name="hyatt">Hyatt</string>
+    <string name="kalyani_nagar">Kalyani Nagar</string>
+    <string name="hyatt_address">Address: Adjacent to Aga Khan Palace, 88, Pune Nagar Rd, Mahindra
+        Society, Kalyani Nagar, Pune, 411006\n\n
+    </string>
+    <string name="hyatt_contact">Phone:020 4141 1234\n</string>
+    <string name="royal_orchid_central">Royal Orchid Central</string>
+    <string name="royal_orchid_address">Address: Kalyani Nagar, Marisoft Annexe Building, Pune,
+        Maharashtra 411014\n\n
+    </string>
+    <string name="royal_orchid_contact">Phone:020 4000 3000</string>
+    <string name="rajiv_gandhi_zoological_park">Rajiv Gandhi Zoological Park</string>
+    <string name="katraj">Katraj</string>
+    <string name="rajiv_gandhi_park_decription">The Rajiv Gandhi Zoological Park, commonly known as
+        the Rajiv Gandhi Zoo, is located in Katraj near the city of Pune in India. It is managed by
+        the Pune Municipal Corporation. The 130-acre (53 ha) zoo is divided into three parts: an
+        animal orphanage, a snake park, and a zoo, and includes the 42-acre (17 ha) Katraj Lake.
+    </string>
+    <string name="the_empress_garden">The Empress Garden</string>
+    <string name="ghorpadi">Ghorpadi</string>
+    <string name="empress_garden_description">The Empress Garden is managed by the
+        Agri-Horticultural Society of Western India. The Society has been managing the Empress
+        Garden since 1880, with an aim to nurture and preserve flora of the region. The Garden
+        covers a sprawling 39 acres, and is home to many rare species of trees and flowers. The
+        Society organizes annual flower shows and arranges various programs throughout the year to
+        create environmental awareness among people. The well landscaped garden consists of lush
+        green lawns, abundant flora and fauna, play area for kids, and a snack shack. The park has a
+        quaint stream of water flowing throughout the garden, and is a delight for nature lovers.
+    </string>
+    <string name="pu_la_deshpande_garden">Pu La Deshpande Garden</string>
+    <string name="sinhgad_road">Sinhgad Road</string>
+    <string name="pu_la_garden_description">P.L. Deshpande garden is a project initiated by the Pune
+        Municipal Corporation. It one of the biggest gardens in Maharashtra. It covers 12 acres of
+        land, and is also known as the Japanese Garden. It is located on Sinhgad
+        Road,Pune,Maharashtra.
+    </string>
+    <string name="shaniwarwada">Shaniwarwada</string>
+    <string name="shaniwarawada_description">Shaniwarwada (Śanivāravāḍā) is an 18th-century
+        fortification in the city of Pune in Maharashtra, India. Built in 1732, it was the seat of
+        the Peshwa rulers of the Maratha Empire until 1818, when the Peshwas lost control to the
+        East India Company after the Third Anglo-Maratha War.
+    </string>
+    <string name="sinhgad_fort">Sinhgad Fort</string>
+    <string name="sinhgad_description">Sinhgad (The Lion\'s Fort), is a fortress located roughly 30
+        kilometres southwest of the city of Pune, India. Previously called Kondhana (Marathi:
+        कोंढाणा), the fort has been the site of many important battles, most notably the Battle of
+        Sinhagad in 1671.
+    </string>
+    <string name="rajgad_fort">Rajgad Fort</string>
+    <string name="rajgad_description">The highest part of the fort has remains of palaces, water
+        cisterns and caves. The main entrance door is known as the Mahadarwaja. This fort is built
+        on the hill called Murumbadevi Dongar (Mountain of the Goddess Murumba). Rajgad boasts of
+        the highest number of days stayed by Chhatrapati Shivaji Maharaj on any fort.
+    </string>
+    <string name="parvati_hill">Parvati Hill</string>
+    <string name="parvati_description">For visitors, Parvati hill is also an observation point that
+        offers a panoramic view of Pune. It is the second highest point in Pune (after Vetal Hill).
+        The hill has 103 steps leading to the top of the hill where the temple is situated. Other
+        temples are dedicated to Vitthal and Rukmini, Vishnu, and Kartikeya.
+    </string>
+    <string name="lal_mahal">Lal Mahal</string>
+    <string name="lal_mahal_description">The Lal Mahal (Red Palace) of Pune is one of the most
+        famous monuments located in Pune, India. In the year 1630 AD, Shivaji\'s Father Shahaji
+        Bhosale, established the Lal Mahal for his wife Jijabai and son.
+    </string>
+    <string name="aga_khan_palace">Aga Khan Palace</string>
+    <string name="aga_khan_palace_description">The Aga Khan Palace is also known as the Gandhi
+        National Museum and is a part of the Indian freedom struggle. ... The museum also serves as
+        a memorial wherein the remains (samadhi) of Mahatma Gandhi\'s wife, Kasturba Gandhi rest in
+        peace. The palace was built in 1892 by Sultan Mohammed Shah, Aga Khan III.
+    </string>
+    <string name="no_tab">No Tab</string>
+    <string name="details_image_resource_id">detailsImageResourceId</string>
+    <string name="detais_text">detailsText</string>
+
+
+</resources>
